@@ -1,5 +1,9 @@
 # The Unfinished Sentence
 
+[![make.fun · make-the-ai-judge-feel-curious-20261122-2311](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/yuyan5319-crypto/makefun-make-the-ai-judge-feel-curious-20261122-2311-2/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/yuyan5319-crypto/makefun-make-the-ai-judge-feel-curious-20261122-2311-2/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+
 An entry for make.fun's **Make the AI judge feel curious** bounty.
 
 ## What it does
